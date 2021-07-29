@@ -114,7 +114,7 @@ export default {
             return this.pajaroArray;
         }
     },
-
+ 
 
     mounted() {
         let thisLocal = this;
